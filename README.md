@@ -8,6 +8,9 @@
   - String- eli tekstityyppisiä muuttujia
 - Toiminnot: tulostavat muuttujat sana1 ja sana2 peräkkäin samalle riville konsoliin
 - Tuloste, joka näkyy käyttäjälle konsolissa, kun ohjelma ajetaan:
+```
+Hello Artemii!
+```
 
 > [!IMPORTANT]
 > Koodin kirjoittamisen johdanto
